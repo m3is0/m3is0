@@ -1,4 +1,4 @@
-## Hi there! 😎
+## Hello! 😎
 
 <!--
 **m3is0/m3is0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
