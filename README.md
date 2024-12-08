@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 My name is Andrii, I'm a software engineer.
-For any questions, reach me at jobs.only098@aleeas.com
+You can reach me at jobs.only098@aleeas.com
