@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 😎
 
 <!--
 **m3is0/m3is0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Andrii, I'm a software engineer.
+For any questions reach me at jobs.only098@aleeas.com
